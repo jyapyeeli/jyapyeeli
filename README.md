@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain, web3.0, Python, SQL
 - 🌱 I’m currently learning Solidity and Blockchain Development
 - 💞️ I’m looking to collaborate on smart contracts development
-- 📫 You can reach out to me via https://twitter.com/j_yapyeeli
+- 📫 You can reach out to me via https://twitter.com/jyapyeeli
 
 <!---
 jyapyeeli/jyapyeeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
